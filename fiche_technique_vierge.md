@@ -1,16 +1,17 @@
-Chacune des fiches complétées nous permettra de connaitre :
 
- Titre de l'oeuvre ou de la réalisation
 
- Nom de l'artiste ou de la firme
+- #TITRE DE L'OEUVRE -
+ 
+- #NOM ARTISTE OU FIRME -
 
- Année de réalisation
+- #ANNÉE DE RÉALISATION -
 
- Nom de l'exposition ou de l'événement
+- #NOM DE L'EXPOSITION OU DE L'ÉVÉNEMENT -
 
- Lieu de mise en exposition
+- #LIEU DE MISE EN EXPOSITION -
 
- Date de votre visite
+- #DATE DE VOTRE VISITE -
+
 
  Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
 
