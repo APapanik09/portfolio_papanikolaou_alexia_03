@@ -1,15 +1,15 @@
 
-#TITRE DE L'OEUVRE -
+# TITRE DE L'OEUVRE <br> - *insert nom*
  
-#NOM ARTISTE OU FIRME -
+# NOM ARTISTE OU FIRME <br> - *nom artiste*
 
-#ANNÉE DE RÉALISATION -
+# ANNÉE DE RÉALISATION <br> - *année*
 
-#NOM DE L'EXPOSITION OU DE L'ÉVÉNEMENT -
+# NOM DE L'EXPOSITION OU DE L'ÉVÉNEMENT <br> - *nom exposition*
 
-#LIEU DE MISE EN EXPOSITION -
+# LIEU DE MISE EN EXPOSITION <br> - *lieu*
 
-#DATE DE VOTRE VISITE -
+# DATE DE VOTRE VISITE <br> - *date de visite*
 
 
  Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
