@@ -29,7 +29,7 @@
 ### LISTE DES ÉLÉMENTS NÉCESSAIRES
  - *pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)*
 
-### EXPÉRIENCE VÉCUE
+## EXPÉRIENCE VÉCUE
 
 **DESCRIPTION DE VOTRE EXPÉRIENCE**
 - *de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.*
@@ -40,7 +40,7 @@
  🤔 **ASPECT QUE VOUS SOUHAITERIEZ PAS RETENIR**
  - *pour vos propres créations ou que vous feriez autrement et justifications*
 
-### RÉFÉRENCES
+## RÉFÉRENCES
 
 **Photographies et croquis à intégrer**
 
