@@ -1,7 +1,7 @@
 
 ## TITRE DE L'OEUVRE <br> - *insert nom*
  
-## NOM ARTISTE OU FIRME <br> - #*nom artiste*
+## NOM ARTISTE OU FIRME <br> - *nom artiste*
 
 ## ANNÉE DE RÉALISATION <br> - *année*
 
