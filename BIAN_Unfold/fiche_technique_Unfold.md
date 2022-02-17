@@ -1,27 +1,27 @@
 ## TITRE DE L'OEUVRE
-- *Unfold
+- *Unfold*
  
 ### NOM ARTISTE OU FIRME
-- *Ryoichi Kurokawa
+- *Ryoichi Kurokawa*
 
 ### ANNÉE DE RÉALISATION
-- *2016
+- *2016*
 
 ### NOM DE L'EXPOSITION OU DE L'ÉVÉNEMENT
-- *Elektra: 5e Biennale Internationale d'Art Numérique
+- *Elektra: 5e Biennale Internationale d'Art Numérique*
 
 ### LIEU DE MISE EN EXPOSITION
-- *Arsenal Art Contemporain
+- *Arsenal Art Contemporain*
 
 ### DATE DE VOTRE VISITE 
  - *10 février 2022*
 
 ## DESCRIPTION
- - *Représentation imagée et sonorisée de la naissance d'une étoile étendu sur trois écrans. 
+ - *Représentation imagée et sonorisée de la naissance d'une étoile étendu sur trois écrans.*
 
 
 ### EXPLICATIONS
-- *Cet oeuvre multimédia immersive est composée de trois écrans qui archent au-dessus du visiteurs. Sur ces écrans ils y un représentation imagée de la naissance d'une étoile. Devant la diffusion, donc en conséquent sous les pieds des spectateurs il se trouve une plateforme légerement surélevé qui est munis d'engin qui fait la fait vibrer en accordance avec les images et les sons de ce qui est présenté. En plus de tout cela, l'oeuvre est dotée de multiples haut-parleurs qui sert à créer et augmenter l'expérience intéractive. 
+- *Cet oeuvre multimédia immersive est composée de trois écrans qui archent au-dessus du visiteurs. Sur ces écrans ils y un représentation imagée de la naissance d'une étoile. Devant la diffusion, donc en conséquent sous les pieds des spectateurs il se trouve une plateforme légerement surélevé qui est munis d'engin qui fait la fait vibrer en accordance avec les images et les sons de ce qui est présenté. En plus de tout cela, l'oeuvre est dotée de multiples haut-parleurs qui sert à créer et augmenter l'expérience intéractive.*
 
 ### LISTE DES COMPOSANTES ET TECHNIQUES
  - *3 projecteurs
