@@ -1,29 +1,34 @@
 ## TITRE DE L'OEUVRE
-- *insert nom*
+- *Unfold
  
 ### NOM ARTISTE OU FIRME
-- *nom artiste*
+- *Ryoichi Kurokawa
 
 ### ANNÉE DE RÉALISATION
-- *année*
+- *2016
 
 ### NOM DE L'EXPOSITION OU DE L'ÉVÉNEMENT
-- *nom exposition*
+- *Elektra: 5e Biennale Internationale d'Art Numérique
 
 ### LIEU DE MISE EN EXPOSITION
-- *lieu*
+- *Arsenal Art Contemporain
 
 ### DATE DE VOTRE VISITE 
- - *date de visite*
+ - *10 février 2022*
 
 ## DESCRIPTION
- - *Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)*
+ - *Représentation imagée et sonorisée de la naissance d'une étoile étendu sur trois écrans. 
+
 
 ### EXPLICATIONS
-- *sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)*
+- *Cet oeuvre multimédia immersive est composée de trois écrans qui archent au-dessus du visiteurs. Sur ces écrans ils y un représentation imagée de la naissance d'une étoile. Devant la diffusion, donc en conséquent sous les pieds des spectateurs il se trouve une plateforme légerement surélevé qui est munis d'engin qui fait la fait vibrer en accordance avec les images et les sons de ce qui est présenté. En plus de tout cela, l'oeuvre est dotée de multiples haut-parleurs qui sert à créer et augmenter l'expérience intéractive. 
 
 ### LISTE DES COMPOSANTES ET TECHNIQUES
- - *de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)*
+ - *3 projecteurs
+ - *5 haut-parleurs
+ - *Plateforme qui vibre 
+ 
+ de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)*
 
 ### LISTE DES ÉLÉMENTS NÉCESSAIRES
  - *pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)*
