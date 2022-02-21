@@ -24,13 +24,15 @@
 - *Cet oeuvre multimédia immersive est composée de trois écrans qui archent au-dessus du visiteurs. Sur ces écrans ils y un représentation imagée de la naissance d'une étoile. Devant la diffusion, donc en conséquent sous les pieds des spectateurs il se trouve une plateforme légerement surélevé qui est munis d'engin qui fait la fait vibrer en accordance avec les images et les sons de ce qui est présenté. En plus de tout cela, l'oeuvre est dotée de multiples haut-parleurs qui sert à créer et augmenter l'expérience intéractive.*
 
 ### LISTE DES COMPOSANTES ET TECHNIQUES
- - *3 projecteurs
- - *5 haut-parleurs
- - *Plateforme qui vibre 
+ - *3 projecteurs*
+ - *5 haut-parleurs*
+ - *Plateforme vibrante*
+ - *3 écrans blancs pour accueillir la projection*
  
- de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)*
 
 ### LISTE DES ÉLÉMENTS NÉCESSAIRES
+ - *Plateforme en bois pour cacher les méchanismes de vibration (subwoofer)*
+ - 
  - *pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)*
 
 ## EXPÉRIENCE VÉCUE
