@@ -21,7 +21,7 @@
 
 
 ### EXPLICATIONS
-- *Cet oeuvre multimédia immersive est composée de trois écrans qui archent au-dessus du visiteurs. Sur ces écrans ils y un représentation imagée de la naissance d'une étoile. Devant la diffusion, donc en conséquent sous les pieds des spectateurs il se trouve une plateforme légerement surélevé qui est munis d'engin qui fait la fait vibrer en accordance avec les images et les sons de ce qui est présenté. En plus de tout cela, l'oeuvre est dotée de multiples haut-parleurs qui sert à créer et augmenter l'expérience intéractive.*
+- *Cet oeuvre multimédia immersive est composée de trois écrans qui archent au-dessus du visiteurs. Sur ces écrans ils y un représentation imagée de la naissance d'une étoile. Devant la diffusion, sous les pieds des spectateurs il se trouve une plateforme légerement surélevé qui est munis d'engins qui fait vibrer la plateforme en accordance avec les images et les sons de ce qui est présenté. En plus de tout cela, l'oeuvre est dotée de multiples haut-parleurs qui sert à créer et augmenter l'expérience immersive.*
 
 ### LISTE DES COMPOSANTES ET TECHNIQUES
  - *3 projecteurs*
@@ -32,16 +32,21 @@
 
 ### LISTE DES ÉLÉMENTS NÉCESSAIRES
  - *Plateforme en bois pour cacher les méchanismes de vibration (subwoofer)*
- - 
- - *pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)*
+ - *5 supports/trépieds à haut-parleurs (pour les surélevés)*
+ - *Cache-fils*
+ - *Grillage de soutien pour tenir les projecteurs mis en hauteur*
 
 ## EXPÉRIENCE VÉCUE
 
 **DESCRIPTION DE VOTRE EXPÉRIENCE**
-- *de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.*
+ * Lorsque je suis entré dans la salle d'exposition, c'est cette oeuvre qui a attiré mon regard en premier, elle est imposante et impréssionante. C'était facile de reconnaitre son type d'oeuvre, c'est-a-dire, immersif. En tout, j'ai trouver mon expérience plaisante car j'ai pu me perdre dans l'univers que cette oeuvre partageait. J'ai beaucoup aimé le fait que la projection était en forme d'arc, et que l'on se sentait recouvert par les projections. J'ai aussi trouvé que la composition sonore et les vibrations étaient bien synchronisés avec le visuel. 
+
 
  ❤️ **CE QUI VOUS A PLU**
-- *vous a donné des idées et justifications*
+- *J'ai aimé l'unité que tous les éléments réunis formaient. C'est quelque chose que j'aimerais recréer dans un de mes futurs projets.*
+- *L'effet sensoriel de l'oeuvre (les vibrations) était un élément assez innovatif à mon avis, c'était une belle touche.*
+- *La composition visuelle avec les images qui défilaient rapidement ou lentement dans différents moments. C'était une belle juxtaposition de rythme, ça l'apportait à l'expérience différentes émotions.*
+
 
  🤔 **ASPECT QUE VOUS SOUHAITERIEZ PAS RETENIR**
  - *pour vos propres créations ou que vous feriez autrement et justifications*
