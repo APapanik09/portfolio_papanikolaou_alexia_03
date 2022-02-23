@@ -59,10 +59,19 @@
 
  - Oeuvre dans son ensemble 
   ![oeuvre](photos/dispositif_ensemble_unfold.jpeg)
- - *photographies des composantes de l'oeuvre*
- - *photographies des éléments nécessaires à sa mise en espace*
- - *photographie du cartel ou du panneau explicatif*
- - *autoportrait (photo) de vous avec l'oeuvre*
- - *croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)*
--  *possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci*
+ - Composantes de l'oeuvre
+  ![composantes](photos/composantes_unfold.jpeg)
+  Éléments nécessaires à sa mise en espace
+  ![elements1](photos/mise_espace_1_unfold.jpeg)
+  ![elements2](photos/mise_espace_2_unfold.jpeg)
+  ![elements3](photos/mise_espace_3_unfold.jpeg)
+ - Photographie du cartel 
+  ![cartel](photos/cartel_unfold.jpeg)
+ - Autoportrait avec l'oeuvre (j'ai oublier d'en prendre une avec cet oeuvre mais en voici une avec un autre oeuvre oops...)
+  ![selfie](photos/selfie_unfold.jpeg)
+ - Croquis de la mise en espace
+  ![croquis](photos/croquis_unfold.jpeg)
+ - Vidéo de l'oeuvre
+ - ![video](video/actions_unfold.jpeg)
+
 
