@@ -57,7 +57,8 @@
 
 **Photographies et croquis à intégrer**
 
- - *photographie de l'oeuvre ou du dispositif dans son ensemble*
+ - Oeuvre dans son ensemble 
+  ![oeuvre](BIAN_Unfold/photos/dispositif_ensemble_unfold.jpeg)
  - *photographies des composantes de l'oeuvre*
  - *photographies des éléments nécessaires à sa mise en espace*
  - *photographie du cartel ou du panneau explicatif*
