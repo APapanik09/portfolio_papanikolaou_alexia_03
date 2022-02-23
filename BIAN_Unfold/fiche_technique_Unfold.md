@@ -70,8 +70,8 @@
  - Autoportrait avec l'oeuvre (j'ai oublier d'en prendre une avec cet oeuvre mais en voici une avec un autre oeuvre oops...)
   ![selfie](photos/selfie_unfold.jpeg)
  - Croquis de la mise en espace
-  ![croquis](croquis/croquis_unfold.jpeg)
+  ![croquis](croquis/croquis_unfold.jpg)
  - Vidéo de l'oeuvre
- - ![video](videos/actions_unfold.jpeg)
+ - ![video](videos/actions_unfold.MOV)
 
 
