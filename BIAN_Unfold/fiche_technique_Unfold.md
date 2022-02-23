@@ -71,7 +71,4 @@
   ![selfie](photos/selfie_unfold.jpeg)
  - Croquis de la mise en espace
   ![croquis](croquis/croquis_unfold.jpg)
- - Vidéo de l'oeuvre
- - ![video](videos/actions_unfold.mov)
-
 
