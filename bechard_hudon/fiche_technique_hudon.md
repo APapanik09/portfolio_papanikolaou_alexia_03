@@ -1,21 +1,21 @@
 
 ## TITRE DE L'OEUVRE
-- *insert nom*
+- Configurations du sensible
  
 ### NOM ARTISTE OU FIRME
-- *nom artiste*
+- Catherine Béchard et Sabin Hudon
 
 ### ANNÉE DE RÉALISATION
-- *année*
+- 2019 - 2021
 
 ### NOM DE L'EXPOSITION OU DE L'ÉVÉNEMENT
-- *nom exposition*
+- Configurations du sensible
 
 ### LIEU DE MISE EN EXPOSITION
-- *lieu*
+- Maison des arts de Laval
 
 ### DATE DE VOTRE VISITE 
- - *date de visite*
+ - 17 mars 2022
 
 ## DESCRIPTION
  - *Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)*
