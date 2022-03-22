@@ -1,6 +1,6 @@
 
 ## TITRE DE L'OEUVRE
-- Configurations du sensible
+- Mécanismes de dessaisissament (rond, carré, triangle)
  
 ### NOM ARTISTE OU FIRME
 - Catherine Béchard et Sabin Hudon
