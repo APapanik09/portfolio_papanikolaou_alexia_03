@@ -1,6 +1,6 @@
 
 ## TITRE DE L'OEUVRE
-- Mécanismes de dessaisissament (rond, carré, triangle)
+- Mécanismes de dessaisissement (rond, carré, triangle)
  
 ### NOM ARTISTE OU FIRME
 - Catherine Béchard et Sabin Hudon
