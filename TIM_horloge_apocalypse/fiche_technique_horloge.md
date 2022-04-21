@@ -51,3 +51,7 @@
  - *croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)*
 -  *possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci*
 
+## ORDRE DE PRÉFÉRENCE ACTUEL
+
+
+
