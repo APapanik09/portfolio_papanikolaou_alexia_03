@@ -35,8 +35,8 @@
  - Cables connecteurs
  - Cables d'alimentation
  (source: Cartel d'exposition de l'oeuvre par Catherine Béchard et Sabin Hudon)
- ![mechanisme1](photos/hudon_mechanisme1.jpg) 
- ![mechanisme2](photos/hudon_mechanisme2.jpg) 
+ ![mechanisme1](photos/hudon_mecanisme1.jpg) 
+ ![mechanisme2](photos/hudon_mecanisme2.jpg) 
  ![triangle](photos/hudon_triangle.jpg) 
 
 ### LISTE DES ÉLÉMENTS NÉCESSAIRES
