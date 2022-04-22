@@ -18,7 +18,7 @@
  - 17 mars 2022
 
 ## DESCRIPTION
- - *Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)*
+ - 
 
 ### EXPLICATIONS
 - *sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)*
