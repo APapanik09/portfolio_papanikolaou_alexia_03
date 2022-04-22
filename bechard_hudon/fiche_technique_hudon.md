@@ -59,4 +59,4 @@
 
 **AUTOPORTRAIT**
 
-![selfie](photos/hudon_selfie.jpg) 
+![selfie](photos/hudon_selfie.jpeg) 
