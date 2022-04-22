@@ -57,5 +57,6 @@
  🤔 **ASPECT QUE JE SOUHAITE PAS RETENIR**
  - Je trouve que le manque d'une trame sonore personnifié est un point faible de l'installation, si cet oeuvre avait été mise en exposition dans une autre salle (sans les autres oeuvres), le silence aurait été un peu déconcertant. Je trouve que c'est important d'avoir une sonorisation bien exécuté dans n'importe installation. C'est une couche d'immersion additionnelle qui rend une expérience absolument plus mémorable. 
 
+**AUTOPORTRAIT**
 
-
+![selfie](photos/hudon_selfie.jpg) 
