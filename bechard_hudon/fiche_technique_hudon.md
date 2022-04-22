@@ -54,18 +54,8 @@
 - J'ai aimé l'utilisation de la lumière, je trouvais qu'il avait une bonne balance d'intensité (ni trop fort, ni trop faible). D'ailleurs, je trouve que le contraste/reflet du mur blanc avec l'électroluminescence des diodes créait une jolie lueur qui découpait bien l'oeuvre du mur. Cela créait une profondeur ainsi que donnait l'effet que l'installation flottait.
 - J'ai aimé la netteté de l'installation. Les couleurs, les textures et même l'organisation des cables formait une harmonie qui démontrait d'un grand professionalisme. Cet un aspect que je trouve important lors de la conception d'un oeuvre multimédia, c'est difficile d'apprécier un oeuvre qui à l'air amateur. 
 
- 🤔 **ASPECT QUE VOUS SOUHAITERIEZ PAS RETENIR**
- - *pour vos propres créations ou que vous feriez autrement et justifications*
+ 🤔 **ASPECT QUE JE SOUHAITE PAS RETENIR**
+ - Je trouve que le manque d'une trame sonore personnifié est un point faible de l'installation, si cet oeuvre avait été mise en exposition dans une autre salle (sans les autres oeuvres), le silence aurait été un peu déconcertant. Je trouve que c'est important d'avoir une sonorisation bien exécuté dans n'importe installation. C'est une couche d'immersion additionnelle qui rend une expérience absolument plus mémorable. 
 
-## RÉFÉRENCES
 
-**Photographies et croquis à intégrer**
-
- - *photographie de l'oeuvre ou du dispositif dans son ensemble*
- - *photographies des composantes de l'oeuvre*
- - *photographies des éléments nécessaires à sa mise en espace*
- - *photographie du cartel ou du panneau explicatif*
- - *autoportrait (photo) de vous avec l'oeuvre*
- - *croquis de la mise en espace (choisir la vue la plus pertinente : plan ou élévation)*
--  *possibilité d'intégrer de courts vidéos pour documenter les actions de l'oeuvre ou l'interactivité avec celle-ci*
 
