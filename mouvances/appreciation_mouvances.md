@@ -27,7 +27,7 @@ L’œuvre d’Olivia Mc Gilchrist, Virtual ISLANDS est une expérience en réal
 
 ## TECHNOLOGIES EMPLOYÉES 
 
-*Guillaume Arsenault 
+*Guillaume Arsenault*
 
 - Raspberry Pi 
 - Écrans/Moniteurs 
@@ -39,7 +39,7 @@ L’œuvre d’Olivia Mc Gilchrist, Virtual ISLANDS est une expérience en réal
 - Modélisation 3D 
 - Conception sonore 
 
-*Olivia Mc Gilchrist 
+*Olivia Mc Gilchrist*
 
 - Casque de réalité virtuelle (oculus) 
 - Modélisation 3D 
