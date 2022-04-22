@@ -37,7 +37,7 @@
  (source: Cartel d'exposition de l'oeuvre par Catherine Béchard et Sabin Hudon)
  ![mechanisme1](photos/hudon_mecanisme1.jpg) 
  ![mechanisme2](photos/hudon_mecanisme2.jpg) 
- ![croquis](photos/hudon_croquisss.png) 
+ ![croquis](croquis/hudon_croquisss.png) 
 
 ### LISTE DES ÉLÉMENTS NÉCESSAIRES
  - Prises électriques
