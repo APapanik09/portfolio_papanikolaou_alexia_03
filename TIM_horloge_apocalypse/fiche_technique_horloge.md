@@ -25,10 +25,13 @@
  (source: https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html)
  
 ### EXPLICATIONS
-- L'oeuvre était exposée dans le petit studio, au milieu de la pièce il y avait une grande horloge et à côté de celle-ci, il avait une colonne avec un téléphone dessus. 
+- L'oeuvre était exposée dans le petit studio, au milieu de la pièce il y avait une grande horloge et à côté de celle-ci, il avait une colonne avec un téléphone dessus. Sur les murs, il avait des rideaux qui servait de surface de projection. Les aiguilles de l'horloge était intéractives du fait que lorsque le visiteur tournait celle-ci la scène en projection changeait, la trame sonore aussi. À la fin le téléphone sonne pour indiquer que l'apocalypse est imminente.   
 
 ### LISTE DES COMPOSANTES ET TECHNIQUES
- - *de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)*
+ - Projecteurs
+ - Conception Sonore
+ - Programmation
+ - Animation 2D
 
 ### LISTE DES ÉLÉMENTS NÉCESSAIRES
  - *pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)*
