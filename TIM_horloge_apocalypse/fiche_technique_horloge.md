@@ -26,7 +26,8 @@
  ![ensemble](photos/horloge_ensemble.jpg) 
  
 ### EXPLICATIONS
-- L'oeuvre était exposée dans le petit studio, au milieu de la pièce il y avait une grande horloge et à côté de celle-ci, il avait une colonne avec un téléphone dessus. Sur les murs, il avait des rideaux qui servait de surface de projection. Les aiguilles de l'horloge était intéractives du fait que lorsque le visiteur tournait celle-ci la scène en projection changeait, la trame sonore aussi. À la fin le téléphone sonne pour indiquer que l'apocalypse est imminente.   
+- L'oeuvre était exposée dans le petit studio, au milieu de la pièce il y avait une grande horloge et à côté de celle-ci, il avait une colonne avec un téléphone dessus. Sur les murs, il avait des rideaux qui servait de surface de projection. Les aiguilles de l'horloge était intéractives du fait que lorsque le visiteur tournait celle-ci la scène en projection changeait, la trame sonore aussi. À la fin le téléphone sonne pour indiquer que l'apocalypse est imminente. <br>
+![croquis](croquis/horloge_croquis.png)   
 
 ### LISTE DES COMPOSANTES ET TECHNIQUES
  - Projecteurs
