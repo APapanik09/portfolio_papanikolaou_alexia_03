@@ -39,6 +39,7 @@
  - Poles de soutiens
  - Haut-parleurs
  - Kinect
+ - Projecteurs (lumières)
  - Raspberry Pi <br>
  ![elements](photos/horloge_plafond.jpg) 
 
