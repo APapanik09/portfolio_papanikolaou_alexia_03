@@ -39,7 +39,7 @@
  - Poles de soutiens
  - Haut-parleurs
  - Kinect
- - Raspberry Pi
+ - Raspberry Pi <br>
  ![elements](photos/horloge_plafond.jpg) 
 
 ## EXPÉRIENCE VÉCUE
