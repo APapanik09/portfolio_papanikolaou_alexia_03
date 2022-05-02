@@ -18,18 +18,22 @@
  
  **Présentation détaillée de l'oeuvre**
  **(description, mise en espace, composantes, éléments)** <br>
+ 
  -22.7C est un album et une oeuvre multimédia de projection/mapping vidéo présenter dans la satosphère. La satosphère est une structure en forme de dome fait pour l'exposition d'oeuvre artistique. Le dome à un diamètre de 18 mètres et une hauteur de 13 mètres. Le théâtre est doté de 8 projecteurs vidéos, 157 hauts-parleurs ainsi que des écrans modulaires qui ont l'avantage d'avoir un angle d'exposition adjustable (soit 180°, 210°, 230° et 360°) ce qui offre l'opportunité aux artistes de projeter une oeuvre qui englobe complètement le spectateur. Peu importe la direction que l'on regarde, il y a de la projection. Donc, cela crée une expérience extrêmement immersive.
  
 **Expérience vécue (Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité/contemplation/immersion, des gestes à poser, etc)** <br>
+
 Une fois rentré dans la satosphère sur le sol il y avait des sièges coussinés, comme des poufs, qui invitait le spectateur à s'asseoir et à se mettre comfortable. Il y avait un technicien qui s'occupait de faire partir le spectacle il était dans la salle lui-aussi derrière une table de régie. Le présentation durait environ 45 minutes. 
  
 Une fois le spectacle commencé, ont à été présenté à des scènes modélisé en 3D qui représentait les paysages du cercle polaire, donc des glaciers et des éléments de la faune de l'antartique. Il y avait aussi du visuel abstrait qui voyageaient au rythme de la musique. L'aspect sonore et visuel était intrisiquement relié, lorsque la trame sonore avait un rythme rapide, les scènes projetées gagnaient en cadence aussi. En bref, les scènes présenté avaient une qualité hypnotisante. 
  
  
  **Appréciation critique et justifications (Ce qui vous a plu, vous a donné des idées + Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement)** <br>
+ 
  J'ai vraiment aimé mon expérience c'était très apaisant la qualité de la musique et du visuel était phénoménale. L'ambiance et la mise en exposition était propice à une expérience complètement immersive. J'ai adoré aussi le concept d'explorer diverses paysages en projection 3D et l'harmonie créé entre la musique et les rendus.  Par contre, j'ai trouvé qu'à certains moments du spectacle le visuel était trop intense, les images stroboscopiques donnait un peu mal à la tête vu qu'il nous englobait complètement alors quand il y avait des scènes clignotantes, c'était un peu envahissant. Malgré ce fait, j'ai pu déconnecter de la réalité et m'immerser à fond dans cette oeuvre multimédia ce qui m'a offert un bon 45 minutes de sérénité. 
  
  **Liens avec autres oeuvres et expériences multimédias découvertes cette session** <br>
+ 
  L'aspect immersif de cette oeuvre m'a fait penser à la boite en bois de l'exposition configurations du sensible, du fait que les sons et l'ambiance qui couvre le spectateur crée un effet apaisant, comme une couverture qui frêne l'accès au monde extérieur. D'ailleurs, comme mentioné auparavant les sons des trames sonores utilisé dans -22.7 sont tiré de la nature tout comme dans configurations du sensible. 
  
  
