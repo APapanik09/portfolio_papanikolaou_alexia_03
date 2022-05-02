@@ -16,7 +16,7 @@
  - 3 mars 2022
 
 ## DESCRIPTION
- -22.7C est une collaboration entre Molécule, un artiste qui se spécifie en musique électronique, et Dirty Monitor, un studio de création 3D et de mapping/projection vidéo. Le thème de l'oeuvre tourne autour de l'album -22.7C créé par Molécule. Dans cet album, il tente de représenter son expérience au Groenland, donc dans le cercle polaire. Pour ce faire, il a séjourné dans une petite ville du Groenland ou il a pris des extrais sonores des banquises et autres éléments de la nature environnante pour créer ses pistes. Alors, l'oeuvre se résume en étant une projection visuel au rhytme de cet album, la projection se donnait en 360 sur les murs de la satosphère.
+ -22.7C est une collaboration entre Molécule, un artiste qui se spécifie en musique électronique, et Dirty Monitor, un studio de création 3D et de mapping/projection vidéo. Le thème de l'oeuvre tourne autour de l'album -22.7C créé par Molécule. Dans cet album, il tente de représenter son expérience au Groenland, donc dans le cercle polaire. Pour ce faire, il a séjourné dans une petite ville du Groenland ou il a pris des extraits sonores des banquises et autres éléments de la nature environnante pour créer ses pistes. Alors, l'oeuvre se résume en étant une projection visuel au rhytme de cet album, la projection se donnait en 360 sur les murs de la satosphère.
  
  ![ensemble](photos/sat227_ensembleb.jpg) <br>
  (source: https://sat.qc.ca/fr/molecule-22-7)
