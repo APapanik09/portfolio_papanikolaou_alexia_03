@@ -43,7 +43,7 @@ Comme mentionné ci-dessus, cet oeuvre à été présenté dans la satosphère, 
 **DESCRIPTION DE MON EXPÉRIENCE**
 - Une fois rentré dans la satosphère sur le sol il y avait des sièges coussinés, comme des poufs, qui invitait le spectateur à s'asseoir et à se mettre comfortable. Il y avait un technicien qui s'occupait de faire partir le spectacle il était dans la salle lui-aussi derrière une table de régie. Le présentation durait environ 45 minutes.
 
-- Une fois le spectacle commencé, ont à été présenté à des scènes modélisé en 3D qui représentait les paysages du cercle polaire, donc des glaciers et des éléments de la faune de l'antartique. Il y avait aussi du visuel abstrait qui voyageaient au rythme de la musique. L'aspect sonore et visuel était intrisiquement relié, lorsque la trame sonore avait un rythme rapide, les scènes projetées gagnaient en cadence aussi. En bref, les scènes présenté avaient une qualité hypnotisante.
+- Une fois le spectacle commencé, ont à été présenté à des scènes modélisé en 3D qui représentait les paysages du cercle polaire, donc des glaciers et des éléments de la faune de l'antartique. Il y avait aussi du visuel abstrait qui voyageaient au rythme de la musique. L'aspect sonore et visuel était intrinséquement relié, lorsque la trame sonore avait un rythme rapide, les scènes projetées gagnaient en cadence aussi. En bref, les scènes présenté avaient une qualité hypnotisante.
 
  ![lune](photos/sat227_lune.jpg) <br>
  (source: https://sat.qc.ca/fr/molecule-22-7)
@@ -56,7 +56,7 @@ Comme mentionné ci-dessus, cet oeuvre à été présenté dans la satosphère, 
 
 
  🤔 **ASPECT QUE JE NE SOUHAITE PAS RETENIR**
- - Par contre, j'ai trouvé qu'à certains moments du spectacle le visuel était trop intense, les images stroboscopiques donnait un peu mal à la tête vu qu'il nous englobait complètement alors quand il y avait des scènes clignotantes, c'était un peu envahissant. Malgré ce fait, j'ai pu déconnecter de la réalité et m'immerser à fond dans cette oeuvre multimédia ce qui m'a offert un bon 45 minutes de sérénité.
+ - Par contre, j'ai trouvé qu'à certains moments du spectacle le visuel était trop intense, les images stroboscopiques donnait un peu mal à la tête vu qu'il nous englobait complètement alors quand il y avait des scènes clignotantes, c'était un peu envahissant. Malgré ce fait, j'ai pu déconnecter de la réalité et m'immerger à fond dans cette oeuvre multimédia ce qui m'a offert un bon 45 minutes de sérénité.
  ![diamant](photos/sat227_diamant.jpg) <br>
  (source: https://sat.qc.ca/fr/molecule-22-7)
  <br>
