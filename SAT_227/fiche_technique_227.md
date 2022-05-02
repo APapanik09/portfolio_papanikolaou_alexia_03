@@ -62,5 +62,5 @@ Comme mentionné ci-dessus, cet oeuvre à été présenté dans la satosphère, 
  <br>
  
  ## SELFIE
-![selife](photos/sat227_selfie.jpg) 
+![selife](photos/sat227_selfie.jpg)  
 
