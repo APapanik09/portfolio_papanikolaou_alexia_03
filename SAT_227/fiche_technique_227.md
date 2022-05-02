@@ -57,6 +57,7 @@ Comme mentionné ci-dessus, cet oeuvre à été présenté dans la satosphère, 
 
  🤔 **ASPECT QUE JE NE SOUHAITE PAS RETENIR**
  - Par contre, j'ai trouvé qu'à certains moments du spectacle le visuel était trop intense, les images stroboscopiques donnait un peu mal à la tête vu qu'il nous englobait complètement alors quand il y avait des scènes clignotantes, c'était un peu envahissant. Malgré ce fait, j'ai pu déconnecter de la réalité et m'immerger à fond dans cette oeuvre multimédia ce qui m'a offert un bon 45 minutes de sérénité.
+ 
  ![diamant](photos/sat227_diamant.jpg) <br>
  (source: https://sat.qc.ca/fr/molecule-22-7)
  <br>
