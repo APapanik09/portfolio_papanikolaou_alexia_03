@@ -50,7 +50,7 @@ Comme mentionné ci-dessus, cet oeuvre à été présenté dans la satosphère, 
 
 ❤️ **CE QUI M'A PLU**
 - J'ai vraiment aimé mon expérience c'était très apaisant la qualité de la musique et du visuel était phénoménale. L'ambiance et la mise en exposition était propice à une expérience complètement immersive. J'ai adoré aussi le concept d'explorer diverses paysages en projection 3D et l'harmonie créé entre la musique et les rendus. 
--
+
  ![glacier](photos/sat227_glacier.jpg) <br>
  (source: https://sat.qc.ca/fr/molecule-22-7)
 
