@@ -22,7 +22,7 @@
  (source: https://sat.qc.ca/fr/molecule-22-7)
  
 ### EXPLICATIONS
-Comme mentionné ci-dessus, cet oeuvre à été présenté dans la satosphère, qui est une structure en forme de dome fait pour l'exposition d'oeuvre artistique. Le dome à un diamètre de 18 mètres et une hauteur de 13 mètres. Le théâtre est doté de 8 projecteurs vidéos, 157 hauts-parleurs ainsi que des écrans modulaires qui ont l'avantage d'avoir un angle d'exposition changeante (soit 180°, 210°, 230° et 360°) ce qui offre l'opportunité aux artistes de projeter une oeuvre qui englobe complètement le spectateur. Peu importe la direction que l'on regarde, il y a de la projection. Donc, cela crée une expérience extrêmement immersive.
+Comme mentionné ci-dessus, cet oeuvre à été présenté dans la satosphère, qui est une structure en forme de dome fait pour l'exposition d'oeuvre artistique. Le dome à un diamètre de 18 mètres et une hauteur de 13 mètres. Le théâtre est doté de 8 projecteurs vidéos, 157 hauts-parleurs ainsi que des écrans modulaires qui ont l'avantage d'avoir un angle d'exposition adjustable (soit 180°, 210°, 230° et 360°) ce qui offre l'opportunité aux artistes de projeter une oeuvre qui englobe complètement le spectateur. Peu importe la direction que l'on regarde, il y a de la projection. Donc, cela crée une expérience extrêmement immersive.
 
 ![croquis](croquis/sat227_croquis.png)    
 
