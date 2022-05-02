@@ -42,3 +42,5 @@ Une fois le spectacle commencé, ont à été présenté à des scènes modélis
  Ouverture : élément inspirant retenu parmi toutes les oeuvres et expériences de la session** <br>
 
 Pour conclure, -22.7C est une oeuvre immersive qui grâce à la technologie de la satosphère fait voyager le spectateur dans un univers polaire modélisé par Dirty Monitor au rythme des sons glacials d'une trame sonore composé par l'artiste MOLECULE. Qu'est-ce que j'ai le plus retenu lors de mes visites d'exposition c'est le niveau de détails et la passion versé dans chaque projet, la plupart des oeuvres que j'ai visité avait une allure professionelle et un attention aux détails admirable. Alors, c'est définitivement un aspect que j'aimerais bien garder dans mes propres projets.
+
+(source: https://sat.qc.ca/fr/molecule-22-7)
